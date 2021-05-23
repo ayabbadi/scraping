@@ -101,7 +101,7 @@ print('DataFrame is written successfully to Excel File.')
 
 
 # Credentials to database connection
-"""hostname="localhost"
+""" knhostname="localhost"
 dbname="scacm"
 uname="root"
 pwd=""
